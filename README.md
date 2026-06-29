@@ -1,4 +1,4 @@
-# Genesis OS - AECODE Light
+# Team Gen+ - Genesis
 
 Dashboard operativo premium para ordenar el trabajo comercial de Genesis en AECODE Live Training, Reto IA y AI Construction Summit.
 
